@@ -115,6 +115,11 @@ tmp.sample(n=10)
 
 # ### AutoML
 
+# In[17]:
+
+
+!pip install auto-sklearn
+
 
 # In[18]:
 

@@ -1,5 +1,6 @@
 name: MLOps-dev
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - ipykernel

@@ -3,8 +3,8 @@
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to apply and train Machine Learning practices on a simple application. We use the
-Olympics events dataset to build a prediction model of sports performance.
+The purpose of this project is to apply machine learning practices on the
+Olympics Events dataset to build a prediction model of medal winning.
 
 
 

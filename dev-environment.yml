@@ -1,0 +1,11 @@
+name: MLOps-dev
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - pip
+prefix: C:\Users\jchop\anaconda3\envs\MLOps-dev
